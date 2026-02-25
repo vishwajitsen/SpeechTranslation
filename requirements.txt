@@ -9,4 +9,5 @@ numpy
 soundfile
 edge-tts
 sentencepiece
+simpleaudio
 
