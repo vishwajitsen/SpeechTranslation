@@ -1,0 +1,12 @@
+torch
+torchaudio
+transformers
+sentencepiece
+openai-whisper
+pyaudio
+webrtcvad
+numpy
+soundfile
+edge-tts
+sentencepiece
+
